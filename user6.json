@@ -1,0 +1,34 @@
+{
+    "name": "Hazem Osama",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "come away",
+            "pages": 50 ,
+            "category":"adventure"
+        },
+        {
+            "bookTitle": "train to bosan",
+            "pages": 430 ,
+            "category":"horror"
+        },
+        {
+            "bookTitle": "check fight",
+            "pages": 170 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "the broken hearts",
+            "pages": 580 ,
+            "category":"drama"
+        },
+        {
+            "bookTitle": "the broken hearts",
+            "pages": 580 ,
+            "category":"drama"
+        }
+
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Ali Ebrahim",
+    "mobileNumber": "0000",
+    "email": "Ali@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "come away",
+            "pages": 50 ,
+            "category":"adventure"
+        },
+        {
+            "bookTitle": "train to bosan",
+            "pages": 430 ,
+            "category":"horror"
+        },
+        {
+            "bookTitle": "The Prisoner of zinda",
+            "pages": 100 ,
+            "category":"thrill"
+        },
+        {
+            "bookTitle": "escape room",
+            "pages": 200 ,
+            "category":"horror"
+        },
+        {
+            "bookTitle": "WW1",
+            "pages": 300 ,
+            "category":"history"
+        },
+        {
+            "bookTitle": "the kill order",
+            "pages": 325 ,
+            "category":"crime"
+        },
+        {
+            "bookTitle": "2012",
+            "pages": 1050 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "undaunted courage",
+            "pages": 399 ,
+            "category":"action"
+        }
+    ]
+}

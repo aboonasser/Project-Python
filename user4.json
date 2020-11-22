@@ -1,0 +1,33 @@
+{
+    "name": "Mohamed Zaki",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "Broken Glass",
+            "pages": 350 ,
+            "category":"literature"
+        },
+        {
+            "bookTitle": "the girl with the dragon tatto",
+            "pages": 425 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "no treason",
+            "pages": 155 ,
+            "category":"non fiction"
+        },
+        {
+            "bookTitle": "vangard",
+            "pages": 72 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "The Prisoner of zinda",
+            "pages": 100 ,
+            "category":"thrill"
+        }
+    ]
+}

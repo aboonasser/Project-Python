@@ -1,0 +1,38 @@
+{
+    "name": "Ahmed Osman",
+    "mobileNumber": "54986518",
+    "email": "Ahmed@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "murder on the orient express",
+            "pages": 255 ,
+            "category":"crime"
+        },
+        {
+            "bookTitle": "harry potter",
+            "pages": 850 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "the kill order",
+            "pages": 325 ,
+            "category":"crime"
+        },
+        {
+            "bookTitle": "escape room",
+            "pages": 200 ,
+            "category":"horror"
+        },
+        {
+            "bookTitle": "train to bosan",
+            "pages": 430 ,
+            "category":"horror"
+        },
+        {
+            "bookTitle": "running with scissors",
+            "pages": 365,
+            "category": "biography"
+        }
+    ]
+}

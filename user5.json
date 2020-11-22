@@ -1,0 +1,33 @@
+{
+    "name": "Mansour Ahmed",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "Green land",
+            "pages": 125 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "echo boomers",
+            "pages": 665 ,
+            "category":"drama"
+        },
+        {
+            "bookTitle": "rangers",
+            "pages": 317 ,
+            "category":"documentary"
+        },
+        {
+            "bookTitle": "clachinkof",
+            "pages": 454 ,
+            "category":"war"
+        },
+        {
+            "bookTitle": "war zone",
+            "pages": 784 ,
+            "category":"war"
+        }
+    ]
+}

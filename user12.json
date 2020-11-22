@@ -1,0 +1,33 @@
+{
+    "name": "Mohamed Hassan",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "Broken Glass",
+            "pages": 500 ,
+            "category":"literature"
+        },
+        {
+            "bookTitle": "the girl with the dragon tatto",
+            "pages": 600 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "no treason",
+            "pages": 155 ,
+            "category":"non fiction"
+        },
+        {
+            "bookTitle": "vangard",
+            "pages": 500 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "train to bosan",
+            "pages": 430 ,
+            "category":"horror"
+        }
+    ]
+}

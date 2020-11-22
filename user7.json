@@ -1,0 +1,33 @@
+{
+    "name": "Said Mohamed",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "Broken Glass",
+            "pages": 190,
+            "category":"literature"
+        },
+        {
+            "bookTitle": "the girl with the dragon tatto",
+            "pages": 215 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "no treason",
+            "pages": 275 ,
+            "category":"non fiction"
+        },
+        {
+            "bookTitle": "vangard",
+            "pages": 430 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "the girl with the dragon tatto",
+            "pages": 425 ,
+            "category":"science fiction"
+        }
+    ]
+}

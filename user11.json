@@ -1,0 +1,33 @@
+{
+    "name": "Patrick Stone",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "john adams",
+            "pages": 405 ,
+            "category":"military"
+        },
+        {
+            "bookTitle": "undaunted courage",
+            "pages": 399 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "night",
+            "pages": 155 ,
+            "category":"romance"
+        },
+        {
+            "bookTitle": "1776",
+            "pages": 500 ,
+            "category":"history"
+        },
+        {
+            "bookTitle": "invisible man",
+            "pages": 750 ,
+            "category":"science fiction"
+        }
+    ]
+}

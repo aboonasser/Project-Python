@@ -1,0 +1,33 @@
+{
+    "name": "Mohamed Hassan",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "color me",
+            "pages": 200 ,
+            "category":"fashion"
+        },
+        {
+            "bookTitle": "interview guide",
+            "pages": 414 ,
+            "category":"careers"
+        },
+        {
+            "bookTitle": "death note",
+            "pages": 515 ,
+            "category":"comic books"
+        },
+        {
+            "bookTitle": "discrete math",
+            "pages": 318 ,
+            "category":"programming"
+        },
+        {
+            "bookTitle": "Broken Glass",
+            "pages": 350 ,
+            "category":"literature"
+        }
+    ]
+}

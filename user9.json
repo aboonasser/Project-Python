@@ -1,0 +1,33 @@
+{
+    "name": "Hesham Nabil",
+    "mobileNumber": "0516126515000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "naruto",
+            "pages": 529 ,
+            "category":"comic books"
+        },
+        {
+            "bookTitle": "vampire knight",
+            "pages": 427 ,
+            "category":"comic books"
+        },
+        {
+            "bookTitle": "think theory",
+            "pages": 677 ,
+            "category":"brain games"
+        },
+        {
+            "bookTitle": "running with scissors",
+            "pages": 365,
+            "category": "biography"
+        },
+        {
+            "bookTitle": "rangers",
+            "pages": 317 ,
+            "category":"documentary"
+        }
+    ]
+}

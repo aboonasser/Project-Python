@@ -1,0 +1,38 @@
+{
+    "name": "Ebrahim Nagy",
+    "mobileNumber": "05161265000",
+    "email": "Ebrahim@gmail.com",
+
+    "books": [
+        {
+            "bookTitle": "book of eli",
+            "pages": 175 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "2012",
+            "pages": 1050 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "extraction",
+            "pages": 155 ,
+            "category":"action"
+        },
+        {
+            "bookTitle": "invisible man",
+            "pages": 750 ,
+            "category":"science fiction"
+        },
+        {
+            "bookTitle": "unchanged",
+            "pages": 380 ,
+            "category":"comedy"
+        },
+        {
+            "bookTitle": "the kill order",
+            "pages": 325 ,
+            "category":"crime"
+        }
+    ]
+}
